@@ -1,4 +1,4 @@
-# Project Bolt
+
 
 A modern React-based web application featuring multiple interactive sections and animated components.
 
