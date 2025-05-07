@@ -29,10 +29,10 @@ export const Homepage = (): JSX.Element => {
         <section className="w-full px-6 py-12">
           <div className="relative w-full max-w-[1202px] mx-auto">
             <div className="absolute w-[57px] h-[57px] top-[388px] left-[1078px]">
-              <img
+              {/*<img
                 className="absolute w-[35px] h-[35px] top-[17px] left-[5px]"
                 alt="Group"
-              />
+              />*/}
             </div>
             
           </div>
